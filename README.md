@@ -1,4 +1,4 @@
-# baseball_most_all-stars_in_year
+# most_all_stars_by_team_for_year
 ## About the repo
 
 Using some data from the Baseball Databank dataset on Kaggle, I wrote a python script to find the team with the highest number of all-star selections in a given year between 1933-2015.
