@@ -2,7 +2,7 @@
 
 Using some data from the Baseball Databank dataset on Kaggle, I wrote a python script to find the team with the highest number of all-star selections in a given year between 1933-2015.
 
-Example output...
+Example output...<br/>
 <img width="614" alt="image" src="https://github.com/user-attachments/assets/69cc2ad5-65fc-4395-93cc-8b8696be954d" />
 
 I also added code to check if there are two teams that share the highest number of all-stars. Example from that output is below...
